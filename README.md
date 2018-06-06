@@ -6,9 +6,9 @@ You can play it at: https://flyinrabbit.itch.io/surrealsands
 * How To Play: 
 "W, A, S, D" and "Spacebar" are your friends.
 
-Each level throws the player into a unique setting with a variety of game mechanics.
+* Each level throws the player into a unique setting with a variety of game mechanics.
 
-Scrolls are hidden throughout the adventure, which are acquired after completing secondary objectives. These hints are used to unlock a secret combination near the end of the game.
+* Scrolls are hidden throughout the adventure, which are acquired after completing secondary objectives. These hints are used to unlock a secret combination near the end of the game.
 
 Credits: 
 Programmers/Designers: Christian Barrett, Zachary DiFuria, Hike Yegiyan
