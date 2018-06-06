@@ -10,9 +10,9 @@ You can play it at: https://flyinrabbit.itch.io/surrealsands
 
 * Scrolls are hidden throughout the adventure, which are acquired after completing secondary objectives. These hints are used to unlock a secret combination near the end of the game.
 
-Credits:
-Programmers/Designers: Christian Barrett, Zachary DiFuria, Hike Yegiyan
+> Credits:
+<b>Programmers/Designers:</b> Christian Barrett, Zachary DiFuria, Hike Yegiyan
 
-Artists: Danial Monastyrsky, Hike Yegiyan, Christian Barrett, Christopher Kolar
+<b>Artists:</b> Danial Monastyrsky, Hike Yegiyan, Christian Barrett, Christopher Kolar
 
-Sound Composer: Hike Yegiyan
+<b>Sound Composer:</b> Hike Yegiyan
