@@ -1,4 +1,4 @@
-# Surreal-Sands
+# Surreal Sands
 An arcade adventure made for the Weekly Game Jam #37
 
 You can play it at: https://flyinrabbit.itch.io/surrealsands
