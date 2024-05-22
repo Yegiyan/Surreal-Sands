@@ -1,7 +1,7 @@
 # Surreal Sands
 An arcade adventure made for the Weekly Game Jam #37
 
-You can play it at: https://fly1nrabbit.itch.io/surrealsands
+You can play it at: https://yegiyan.itch.io/surrealsands
 
 * How To Play: 
 "W, A, S, D" and "Spacebar" are your friends.
